@@ -57,6 +57,6 @@ python manage.py createsuperuser
 Пункты меню автоматически будут подсвечиваться в зависимости от текущего URL.
 
 
-Автор
+## Автор
 
 ``Nikita Makkar``

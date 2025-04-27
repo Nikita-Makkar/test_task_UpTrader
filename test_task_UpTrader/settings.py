@@ -39,7 +39,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'test_task_UpTrader.urls'
+ROOT_URLCONF = 'z.urls'
 
 TEMPLATES = [
     {
@@ -56,7 +56,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'test_task_UpTrader.wsgi.application'
+WSGI_APPLICATION = 'z.wsgi.application'
 
 
 # Database

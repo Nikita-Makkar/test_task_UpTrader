@@ -1,0 +1,27 @@
+# Операционные системы
+.DS_Store
+Thumbs.db
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Виртуальные окружения
+venv/
+.env/
+
+# Системы сборки
+build/
+dist/
+*.egg-info/
+
+# IDE/редакторы
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Логи и кеш
+*.log
+*.cache

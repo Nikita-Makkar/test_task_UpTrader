@@ -1,3 +1,5 @@
+Подключиться к конференции Zoom 
+https://us04web.zoom.us/j/6536702241?pwd=WjA2UVdmWW1xdUNWQlY2M0d6bUJJQT09 
 # Test Task UpTrader
 Тестовое задание: Реализация древовидного меню на Django.
 
